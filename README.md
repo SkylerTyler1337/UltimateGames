@@ -1,6 +1,8 @@
 UltimateGames
 =============
 
+[![Coverage Status](https://coveralls.io/repos/ampayne2/UltimateGames/badge.png)](https://coveralls.io/r/ampayne2/UltimateGames)
+
 A Minigame Engine for the Bukkit Minecraft server API.
 
 Website: [http://dev.bukkit.org/bukkit-plugins/ultimategames/](http://dev.bukkit.org/bukkit-plugins/ultimategames/)
